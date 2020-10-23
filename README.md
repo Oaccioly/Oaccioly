@@ -10,14 +10,12 @@
 <p align="center">
   <a href="https://github.com/oaccioly">
     <img
-      align="center"
-      height="165"
+         height="165"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaccioly&layout=compact&theme=tokyonight&custom_title=Minhas%20Linguagens%20Mais%20Usadas"
     />
   </a>
   <a href="https://github.com/oaccioly">
     <img
-      align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=oaccioly&count_private=true&custom_title=Estatisticas%20De%20Atividade&show_icons=true&hide=issues&theme=tokyonight"
     />
