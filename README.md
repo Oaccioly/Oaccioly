@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## Ola a todos! <img src="Hi.gif" width="30px"></h2>
+## Ola a Todos! <img src="Hi.gif" width="30px"></h2>
 - Gosto de ser chamado pelo meu sobrenome Accioly😄👌
 - Tenho setup🖥️ para diversos desafios
 - Com o tempo eu perco um pouco da minha cara de bravo😡
