@@ -16,6 +16,7 @@
   </a>
   <a href="https://github.com/oaccioly">
     <img
+      align="right"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=oaccioly&count_private=true&custom_title=Estatisticas%20De%20Atividade&show_icons=true&hide=issues&theme=tokyonight"
     />
