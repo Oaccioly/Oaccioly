@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="350" src="Nome.png" />
+    <img align="center" width="300" src="Nome.png" />
   </a>
   <a href="#">
     <img align="center" width="510" src="Minha_Foto.jpg" />
@@ -12,8 +12,7 @@
     <img
       align="center"
       height="165"
-      
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaccioly&layout=compact&theme=tokyonight&custom_title=Minhas%20Linguagens%20Mais%20Usadas"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaccioly&layout=compact&theme=tokyonight&custom_title=Minhas%20Linguagens%20Mais%20Usadas"
     />
   </a>
   <a href="https://github.com/oaccioly">
