@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="350" src="Nome.png" />
+    <img align="center" width="300" src="Nome.png" />
   </a>
   <a href="#">
-    <img align="center" width="450" src="Minha_Foto.jpg" />
+    <img align="center" width="500" src="Minha_Foto.jpg" />
   </a>
 </p>
 
