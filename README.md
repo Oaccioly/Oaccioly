@@ -31,7 +31,7 @@
 
 
 ### Sobre
-Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso do Gustavo Guanabara, fiz todos os mundos, me apaixonei por Python e no ano de 2019 assinei o curso Alura +1000 cursos abertos durante 1 ano de assinatura, foi fantastico, aprendi muito sobre Python e comecei a entrar no mundo da Ciencia de Dados, e como consequencia aprendi R, minha base forte é o Python, mas hoje me garanto no R. Minha assinatura na Alura vai acabar em Novembro de 2020, ja me antecipei e assinei o LinkedIn learning pela grande quantidade de cursos de R e estatistica, nessa reta final do ano estou exercitando e praticando meu ingles, Ano que vem eu inicio minha faculdade de Estatistica.
+Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso do Gustavo Guanabara, fiz todos os mundos, me apaixonei por Python e no ano de 2019 assinei o curso Alura +1000 cursos abertos durante 1 ano de assinatura, foi fantastico, aprendi muito sobre Python e comecei a entrar no mundo da Ciencia de Dados, e como consequencia aprendi R, minha base forte é o Python, mas hoje me garanto no R. Minha assinatura na Alura vai acabar em Novembro de 2020, ja me antecipei e assinei o LinkedIn learning pela grande quantidade de cursos de R e estatistica, nessa reta final do ano de 2020 estou exercitando e praticando meu ingles.
 
 ### Projetos em Python
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=hangman&theme=tokyonight)](https://github.com/oaccioly/hangman)
