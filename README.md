@@ -25,7 +25,7 @@
 </p>
 
 ## Ola a Todos! <img src="Hi.gif" width="30px"></h2>
-- Gosto de ser chamado pelo meu sobrenome Accioly😄👌
+- Gosto de ser chamado pelo meu ultimo nome Accioly😄👌
 - Tenho setup🖥️ para diversos desafios
 - Com o tempo eu perco um pouco da minha cara de bravo😡
 
@@ -33,6 +33,7 @@
 ### Sobre
 Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso do Gustavo Guanabara, fiz todos os mundos, me apaixonei por Python e no ano de 2019 assinei o curso Alura +1000 cursos abertos durante 1 ano de assinatura, foi fantastico, aprendi muito sobre Python e comecei a entrar no mundo da Ciencia de Dados, e como consequencia aprendi R, minha base forte é o Python, mas hoje me garanto no R. Minha assinatura na Alura vai acabar em Novembro de 2020, ja me antecipei e assinei o LinkedIn learning pela grande quantidade de cursos de R e estatistica, nessa reta final do ano de 2020 estou exercitando e praticando meu ingles.
 
+## Conheça o meu codigo e minha forma de pensar.
 ### Projetos em Python
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=hangman&theme=tokyonight)](https://github.com/oaccioly/hangman)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=boteverve&theme=tokyonight)](https://github.com/oaccioly/boteverve)
@@ -63,9 +64,7 @@ Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso d
     />
   </a>
   <a
-    href="https://www.anaconda.com/"
-    target="_blank"
-  >
+    href="https://www.anaconda.com/" target="_blank">
     <img
       src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png"
       alt="Anaconda"
