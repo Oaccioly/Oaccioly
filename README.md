@@ -12,7 +12,7 @@
     <img
          height="165"
          align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaccioly&layout=compact&theme=tokyonight&custom_title=Minhas%20Linguagens%20Mais%20Usadas"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaccioly&layout=compact&theme=tokyonight&custom_title=Minhas%20Linguagens%20Mais%20Usadas&hide=html"
     />
   </a>
   <a href="https://github.com/oaccioly">
@@ -38,6 +38,7 @@ Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso d
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=boteverve&theme=tokyonight)](https://github.com/oaccioly/boteverve)
 
 ### Projetos em R
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=R-Machine-Learning&theme=tokyonight)](https://github.com/Oaccioly/LinkedinJobs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=R-Machine-Learning&theme=tokyonight)](https://github.com/oaccioly/R-Machine-Learning)
 
 ### Linguagens e Ferramentas
@@ -47,7 +48,7 @@ Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso d
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/python/python-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
       alt="Python"
       width="40"
       height="40"
@@ -74,7 +75,7 @@ Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso d
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
       alt="Mysql"
       width="40"
       height="40"
