@@ -38,7 +38,7 @@ Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso d
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=boteverve&theme=tokyonight)](https://github.com/oaccioly/boteverve)
 
 ### Projetos em R
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=R-Machine-Learning&theme=tokyonight)](https://github.com/Oaccioly/LinkedinJobs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=LinkedinJobs&theme=tokyonight)](https://github.com/Oaccioly/LinkedinJobs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=R-Machine-Learning&theme=tokyonight)](https://github.com/oaccioly/R-Machine-Learning)
 
 ### Linguagens e Ferramentas
