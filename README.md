@@ -170,18 +170,19 @@ Exercícios Resolvidos: **1879** 🖊️
     Estresse parte 2: Equilibre seu estilo de vida (de 21/03/2020 a 21/03/2020) 8hrs
 
 <h1 class="content-item-title" style="border-color: #00c86f;">
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+  <a>
                   Certificados Linkedin Learning
   </a>
             </h1>
                         
-Horas Estudadas: **642 horas** ⏰
+Horas Estudadas: **150 horas** ⏰
 
-Cursos Concluidos: **75** 📜
+Cursos Concluidos: **120** 📜
 
-Exercícios Resolvidos: **1879** 🖊️
+Exercícios Resolvidos: **2000** 🖊️
 
 <h2 class="content-item-title" style="border-color: #00c86f;">Master R for Data Science</h2>
+
 <h2 class="content-item-title" style="border-color: #00c86f;" href= >Master Python for Data Science</h2>
 
     Python: Learning Python 3hrs
@@ -200,13 +201,13 @@ Exercícios Resolvidos: **1879** 🖊️
     Python: Learning Python 3hrs
     Python: Python Essential Training 4hrs
     Python: Python Object-Oriented Programming 2hrs
-    Python: Programming Foundations: Data Structures 3hrs
-    Python: Python Data Structures: Stacks, Queues, and Deques 1hrs
-    Python: Python Data Structures: Linked Lists 2hrs
-    Python: Python Data Structures: Dictionaries 1hrs
-    Python: Programming Foundations: Algorithms 2hrs
+    Programming Foundations: Data Structures 3hrs
+    Python Data Structures: Stacks, Queues, and Deques 1hrs
+    Python Data Structures: Linked Lists 2hrs
+    Python Data Structures: Dictionaries 1hrs
+    Programming Foundations: Algorithms 2hrs
     Python: Python Standard Library Essential Training 2hrs
-    Python: Python: Decorators 1hrs
+    Python: Decorators 1hrs
     Python: Advanced Python 2hrs
     Python: Python Essential Libraries 2hrs
     
@@ -234,8 +235,34 @@ Exercícios Resolvidos: **1879** 🖊️
     Business Intelligence: Google Analytics Essential Training 3hrs
 
 <h2 class="content-item-title" style="border-color: #00c86f;">Master Advanced Excel Data & Analytics Skills</h2>
+    
+    Excel VBA: Managing Files and Data 4hrs
+    Excel VBA: Process Modeling 2hrs
+    Excel: Building a Dynamic Heat Map in Excel 1hrs
+    Excel: Using Dynamic Array Functions (Office 365/Microsoft 365) 1hrs
+    Excel: R for Excel Users 1hrs
+    Excel: Logistic Regression in R and Excel 1hrs
+    Business Analytics: Data Reduction Techniques Using Excel and R 1hrs
+    
 <h2 class="content-item-title" style="border-color: #00c86f;">Become a Data Analytics Specialist </h2>
+
+    Data Analytics: Learning Data Analytics 1hrs
+    Statistics Foundations: 1 2hrs
+    Statistics Foundations: 2 2hrs
+    Statistics Foundations: 3 2hrs
+    Data Analytics: Financial Forecasting with Big Data 1hrs
+    Data Analytics: The Essential Elements of Predictive Analytics and Data Mining 1hrs
+    Data Analytics: Predictive Customer Analytics 1hrs
+    Excel: Economic Analysis and Data Analytics 1hrs
+    Data Analytics: Meta-analysis for Data Science and Business Analytics 1hrs
+
 <h2 class="content-item-title" style="border-color: #00c86f;">Master the Fundamentals of AI and Machine Learning</h2>
-<h2 class="content-item-title" style="border-color: #00c86f;">Master Python for Data Science</h2>
 
-
+    Artificial Intelligence Foundations: Machine Learning 2hrs
+    Artificial Intelligence Foundations: Thinking Machines 1hrs
+    Artificial Intelligence Foundations: Neural Networks 1hrs
+    Cognitive Technologies: The Real Opportunities for Business 1hrs
+    AI The LinkedIn Way: A Conversation with Deepak Agarwal 1hrs
+    Machine Learning: Artificial Intelligence for Project Managers 1hrs
+    Learning XAI: Explainable Artificial Intelligence 1hrs
+    Machine Learning: Artificial Intelligence for Cybersecurity 1hrs
