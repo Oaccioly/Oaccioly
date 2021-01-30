@@ -98,6 +98,17 @@ Cursos Concluidos: **75** 📜
 
 Exercícios Resolvidos: **1879** 🖊️
 
+<h1 class="content-item-title" style="border-color: #00c86f;">
+  <a>
+                  Certificados Linkedin Learning
+  </a>
+            </h1>
+                        
+Horas Estudadas: **?** ⏰
+
+Cursos Concluidos: **?** 📜
+
+Exercícios Resolvidos: **?** 🖊️
 
 <h2 class="content-item-title" style="border-color: #00c86f;">Formação: Python</h2>
 
@@ -169,19 +180,17 @@ Exercícios Resolvidos: **1879** 🖊️
     Estresse parte 1: buscando qualidade de vida (de 21/03/2020 a 21/03/2020) 2hrs
     Estresse parte 2: Equilibre seu estilo de vida (de 21/03/2020 a 21/03/2020) 8hrs
 
-<h1 class="content-item-title" style="border-color: #00c86f;">
-  <a>
-                  Certificados Linkedin Learning
-  </a>
-            </h1>
-                        
-Horas Estudadas: **150 horas** ⏰
-
-Cursos Concluidos: **120** 📜
-
-Exercícios Resolvidos: **2000** 🖊️
-
 <h2 class="content-item-title" style="border-color: #00c86f;">Master R for Data Science</h2>
+
+    R: Learning R 3hrs
+    Code Clinic: R 1hrs
+    R: Data Wrangling in R 4hrs
+    R Essential Training: Wrangling and Visualizing Data 4hrs
+    R: Social Network Analysis Using R 1hrs
+    R: R Programming in Data Science: Setup and Start 1hrs
+    R: Integrating Tableau and R for Data Science 1hrs
+    R: R for Excel Users 1hrs
+    R: Logistic Regression in R and Excel 1hrs
 
 <h2 class="content-item-title" style="border-color: #00c86f;" href= >Master Python for Data Science</h2>
 
