@@ -104,7 +104,7 @@ Exercícios Resolvidos: **1879** 🖊️
   </a>
             </h1>
                         
-Horas Estudadas: **?** ⏰
+Horas Estudadas: **~= 200** ⏰
 
 Cursos Concluidos: **?** 📜
 
