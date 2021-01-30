@@ -168,3 +168,74 @@ Exercícios Resolvidos: **1879** 🖊️
     Oratória parte 2: Apresentações em público (de 30/03/2020 a 30/03/2020) 6hrs
     Estresse parte 1: buscando qualidade de vida (de 21/03/2020 a 21/03/2020) 2hrs
     Estresse parte 2: Equilibre seu estilo de vida (de 21/03/2020 a 21/03/2020) 8hrs
+
+<h1 class="content-item-title" style="border-color: #00c86f;">
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+                  Certificados Linkedin Learning
+  </a>
+            </h1>
+                        
+Horas Estudadas: **642 horas** ⏰
+
+Cursos Concluidos: **75** 📜
+
+Exercícios Resolvidos: **1879** 🖊️
+
+<h2 class="content-item-title" style="border-color: #00c86f;">Master R for Data Science</h2>
+<h2 class="content-item-title" style="border-color: #00c86f;" href= >Master Python for Data Science</h2>
+
+    Python: Learning Python 3hrs
+    Python: Data Ingestion with Python 2hrs
+    Python: Python Essential Training 4hrs
+    Python: Python for Data Science Essential Training Part 1 6hrs
+    Python: Python for Data Science Essential Training Part 2 4hrs
+    Python: Data Science Foundations: Python Scientific Stack 4hrs
+    Python: Python Data Analysis 3hrs
+    Python: Python for Data Science Tips, Tricks, & Techniques 1hrs
+    Python: Python for Data Visualization 2hrs
+    Python: Python Statistics Essential Training 3hrs
+
+<h2 class="content-item-title" style="border-color: #00c86f;">Advance Your Skills in Python</h2>
+    
+    Python: Learning Python 3hrs
+    Python: Python Essential Training 4hrs
+    Python: Python Object-Oriented Programming 2hrs
+    Python: Programming Foundations: Data Structures 3hrs
+    Python: Python Data Structures: Stacks, Queues, and Deques 1hrs
+    Python: Python Data Structures: Linked Lists 2hrs
+    Python: Python Data Structures: Dictionaries 1hrs
+    Python: Programming Foundations: Algorithms 2hrs
+    Python: Python Standard Library Essential Training 2hrs
+    Python: Python: Decorators 1hrs
+    Python: Advanced Python 2hrs
+    Python: Python Essential Libraries 2hrs
+    
+<h2 class="content-item-title" style="border-color: #00c86f;">Become a Machine Learning Specialist</h2>
+
+    Machine Learning: Machine Learning and AI Foundations: Decision Trees 1hrs
+    Machine Learning: Deploying Scalable Machine Learning for Data Science 2hrs
+    Machine Learning: Building a Recommendation System with Python Machine Learning & AI  2hrs
+    Machine Learning: Machine Learning and AI Foundations: Clustering and Association 3hrs
+    Machine Learning: Machine Learning & AI: Advanced Decision Trees 1hrs
+    Machine Learning: Machine Learning and AI Foundations: Classification Modeling 2hrs
+    Machine Learning: Machine Learning and AI Foundations: Value Estimations  1hrs
+    Machine Learning: Machine Learning & AI Foundations: Linear Regression 4hrs
+    Machine Learning: Machine Learning and AI Foundations: Recommendations 1hrs
+
+<h2 class="content-item-title" style="border-color: #00c86f;">Become a Business Intelligence Specialist</h2>
+
+    Business Intelligence: Learning Power BI Desktop 2hrs
+    Business Intelligence: Power BI Essential Training 3hrs
+    Business Intelligence: Crystal Reports 2016 Essential Training 4hrs
+    Business Intelligence: Looker First Look 1hrs
+    Business Intelligence: Financial Forecasting with Big Data 1hrs
+    Business Intelligence: Tableau 10: Mastering Calculations 3hrs
+    Business Intelligence: Excel: Economic Analysis and Data Analytics 1hrs
+    Business Intelligence: Google Analytics Essential Training 3hrs
+
+<h2 class="content-item-title" style="border-color: #00c86f;">Master Advanced Excel Data & Analytics Skills</h2>
+<h2 class="content-item-title" style="border-color: #00c86f;">Become a Data Analytics Specialist </h2>
+<h2 class="content-item-title" style="border-color: #00c86f;">Master the Fundamentals of AI and Machine Learning</h2>
+<h2 class="content-item-title" style="border-color: #00c86f;">Master Python for Data Science</h2>
+
+
