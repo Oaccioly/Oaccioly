@@ -110,6 +110,32 @@ Cursos Concluidos: **?** 📜
 
 Exercícios Resolvidos: **?** 🖊️
 
+<h2 class="content-item-title" style="border-color: #00c86f;">Formação: R para Data Science</h2>
+            
+    Análise de dados: Introdução com R (de 11/04/2020 a 22/04/2020) 8hrs
+    Data Science: O pipeline dos dados (de 17/04/2020 a 17/04/2020) 8hrs
+    Data Science: Preparação e exploração dos dados (de 07/05/2020 a 07/05/2020) 8hrs
+    Data Visualization parte 1: introdução ao design de gráficos (de 14/07/2020 a 14/07/2020) 15hrs
+    Data Visualization parte 2: Escolhendo o melhor gráfico (de 14/07/2020 a 14/07/2020) 6hrs
+    Regressão Linear Simples em R: Correlação e Previsão (de 12/09/2020 a 12/09/2020) 4hrs
+    Regressão Linear: Testando Relações e Prevendo Resultados (de 10/03/2020 a 11/09/2020) 12hrs
+    Regressão Linear: Técnicas Avançadas de Modelagem (de 18/03/2020 a 12/09/2020) 5hrs
+    Estatística com R: Introdução à modelagem (de 23/06/2020 a 26/06/2020) 8hrs
+    Estatística I: Entenda seus dados com R (de 11/04/2020 a 11/04/2020) 8hrs
+    Estatística II: Aprofundando em hipóteses e correlações (de 17/04/2020 a 17/04/2020) 8hrs
+
+<h2 class="content-item-title" style="border-color: #00c86f;">Master R for Data Science</h2>
+
+    R: Learning R 3hrs
+    Code Clinic: R 1hrs
+    R: Data Wrangling in R 4hrs
+    R Essential Training: Wrangling and Visualizing Data 4hrs
+    R: Social Network Analysis Using R 1hrs
+    R: R Programming in Data Science: Setup and Start 1hrs
+    R: Integrating Tableau and R for Data Science 1hrs
+    R: R for Excel Users 1hrs
+    R: Logistic Regression in R and Excel 1hrs
+
 <h2 class="content-item-title" style="border-color: #00c86f;">Formação: Python</h2>
 
     Python 3 parte 1: Introdução à nova versão da linguagem (de 29/11/2019 a 30/11/2019) 12hrs
@@ -141,56 +167,6 @@ Exercícios Resolvidos: **?** 🖊️
     Corretor Ortográfico em Python: Aplicando técnicas de NLP (de 10/05/2020 a 18/07/2020) 10hrs
     Machine Learning: Classificação por trás dos panos (de 21/09/2020 a 04/10/2020) 10hrs
     Business Intelligence: Introdução à inteligência empresarial (de 09/04/2020 a 17/04/2020) 12hrs 
-    
-<h2 class="content-item-title" style="border-color: #00c86f;">Formação: R para Data Science</h2>
-            
-    Análise de dados: Introdução com R (de 11/04/2020 a 22/04/2020) 8hrs
-    Data Science: O pipeline dos dados (de 17/04/2020 a 17/04/2020) 8hrs
-    Data Science: Preparação e exploração dos dados (de 07/05/2020 a 07/05/2020) 8hrs
-    Data Visualization parte 1: introdução ao design de gráficos (de 14/07/2020 a 14/07/2020) 15hrs
-    Data Visualization parte 2: Escolhendo o melhor gráfico (de 14/07/2020 a 14/07/2020) 6hrs
-    Regressão Linear Simples em R: Correlação e Previsão (de 12/09/2020 a 12/09/2020) 4hrs
-    Regressão Linear: Testando Relações e Prevendo Resultados (de 10/03/2020 a 11/09/2020) 12hrs
-    Regressão Linear: Técnicas Avançadas de Modelagem (de 18/03/2020 a 12/09/2020) 5hrs
-    Estatística com R: Introdução à modelagem (de 23/06/2020 a 26/06/2020) 8hrs
-    Estatística I: Entenda seus dados com R (de 11/04/2020 a 11/04/2020) 8hrs
-    Estatística II: Aprofundando em hipóteses e correlações (de 17/04/2020 a 17/04/2020) 8hrs
-    
-<h2 class="content-item-title" style="border-color: #00c86f;">Gerente Ágil - Metodologia Agile | Alura</h2>               
-    
-    Scrum: Agilidade em seu projeto (de 04/12/2019 a 13/12/2019) 10hrs
-    Scrum parte 1: Gerencie o seu projeto de forma ágil (de 18/01/2020 a 23/01/2020) 5hrs
-    Liderança parte 1: Seja líder no novo mercado (de 05/12/2019 a 07/12/2019) 8hrs
-    Liderança parte 2: seja o líder que o mercado procura (de 06/12/2019 a 28/02/2020) 12hrs
-    Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (de 03/12/2019 a 05/12/2019) 6hrs
-
-  <h2 class="content-item-title" style="border-color: #00c86f;">Desenvolvimento Pessoal</h2>   
-    
-    Hábitos: da produtividade às metas pessoais (de 18/03/2020 a 21/03/2020) 8hrs
-    Comunicação: Como se expressar bem e ser compreendido (de 21/03/2020 a 30/03/2020) 8hrs
-    Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro (de 30/03/2020 a 30/03/2020) 10hrs
-    Feedback: a arte de orientar e ser orientado com sentido (de 30/03/2020 a 30/03/2020) 2hrs
-    Foco: Trazendo mais resultados para o dia a dia (de 21/03/2020 a 21/03/2020) 10hrs
-    Eficácia parte 1: Hábitos para sua proatividade (de 21/03/2020 a 21/03/2020) 6hrs
-    Eficácia parte 2: Hábitos para sua proatividade (de 21/03/2020 a 21/03/2020) 4hrs
-    Pontos fortes parte 1: descubra os seus e aprenda a gerenciá-los (de 21/03/2020 a 21/03/2020) 4hrs
-    Pontos fortes parte 2: Habilidades e competências (de 21/03/2020 a 21/03/2020) 4hrs
-    Oratória parte 1: Compartilhe ideias e histórias (de 30/03/2020 a 30/03/2020) 8hrs
-    Oratória parte 2: Apresentações em público (de 30/03/2020 a 30/03/2020) 6hrs
-    Estresse parte 1: buscando qualidade de vida (de 21/03/2020 a 21/03/2020) 2hrs
-    Estresse parte 2: Equilibre seu estilo de vida (de 21/03/2020 a 21/03/2020) 8hrs
-
-<h2 class="content-item-title" style="border-color: #00c86f;">Master R for Data Science</h2>
-
-    R: Learning R 3hrs
-    Code Clinic: R 1hrs
-    R: Data Wrangling in R 4hrs
-    R Essential Training: Wrangling and Visualizing Data 4hrs
-    R: Social Network Analysis Using R 1hrs
-    R: R Programming in Data Science: Setup and Start 1hrs
-    R: Integrating Tableau and R for Data Science 1hrs
-    R: R for Excel Users 1hrs
-    R: Logistic Regression in R and Excel 1hrs
 
 <h2 class="content-item-title" style="border-color: #00c86f;" href= >Master Python for Data Science</h2>
 
@@ -219,7 +195,7 @@ Exercícios Resolvidos: **?** 🖊️
     Python: Decorators 1hrs
     Python: Advanced Python 2hrs
     Python: Python Essential Libraries 2hrs
-    
+  
 <h2 class="content-item-title" style="border-color: #00c86f;">Become a Machine Learning Specialist</h2>
 
     Machine Learning: Machine Learning and AI Foundations: Decision Trees 1hrs
@@ -275,3 +251,28 @@ Exercícios Resolvidos: **?** 🖊️
     Machine Learning: Artificial Intelligence for Project Managers 1hrs
     Learning XAI: Explainable Artificial Intelligence 1hrs
     Machine Learning: Artificial Intelligence for Cybersecurity 1hrs
+
+<h2 class="content-item-title" style="border-color: #00c86f;">Gerente Ágil - Metodologia Agile | Alura</h2>               
+    
+    Scrum: Agilidade em seu projeto (de 04/12/2019 a 13/12/2019) 10hrs
+    Scrum parte 1: Gerencie o seu projeto de forma ágil (de 18/01/2020 a 23/01/2020) 5hrs
+    Liderança parte 1: Seja líder no novo mercado (de 05/12/2019 a 07/12/2019) 8hrs
+    Liderança parte 2: seja o líder que o mercado procura (de 06/12/2019 a 28/02/2020) 12hrs
+    Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (de 03/12/2019 a 05/12/2019) 6hrs
+
+<h2 class="content-item-title" style="border-color: #00c86f;">Desenvolvimento Pessoal</h2>   
+    
+    Hábitos: da produtividade às metas pessoais (de 18/03/2020 a 21/03/2020) 8hrs
+    Comunicação: Como se expressar bem e ser compreendido (de 21/03/2020 a 30/03/2020) 8hrs
+    Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro (de 30/03/2020 a 30/03/2020) 10hrs
+    Feedback: a arte de orientar e ser orientado com sentido (de 30/03/2020 a 30/03/2020) 2hrs
+    Foco: Trazendo mais resultados para o dia a dia (de 21/03/2020 a 21/03/2020) 10hrs
+    Eficácia parte 1: Hábitos para sua proatividade (de 21/03/2020 a 21/03/2020) 6hrs
+    Eficácia parte 2: Hábitos para sua proatividade (de 21/03/2020 a 21/03/2020) 4hrs
+    Pontos fortes parte 1: descubra os seus e aprenda a gerenciá-los (de 21/03/2020 a 21/03/2020) 4hrs
+    Pontos fortes parte 2: Habilidades e competências (de 21/03/2020 a 21/03/2020) 4hrs
+    Oratória parte 1: Compartilhe ideias e histórias (de 30/03/2020 a 30/03/2020) 8hrs
+    Oratória parte 2: Apresentações em público (de 30/03/2020 a 30/03/2020) 6hrs
+    Estresse parte 1: buscando qualidade de vida (de 21/03/2020 a 21/03/2020) 2hrs
+    Estresse parte 2: Equilibre seu estilo de vida (de 21/03/2020 a 21/03/2020) 8hrs
+    
